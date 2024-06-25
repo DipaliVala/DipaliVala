@@ -1,5 +1,5 @@
 <h2 align="center">Hi👋! My name is Dipali Vala</h2>
-<h3 style="text-align: center;">A passionate Computer Science and Engineering undergraduate with a strong interest in Data Structures and Algorithms, Full Stack Development, and Data Science</h3>
+<h3 style="text-align: center;">A passionate Computer Science and Engineering undergraduate with a strong interest in Data Structures and Algorithms, Full Stack Development, and Data Science.</h3>
 
 
 📫 Send me an email on **dipalivala555@gmail.com**
