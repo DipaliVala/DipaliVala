@@ -3,7 +3,7 @@
 
 
 📫 Send me an email on **dipalivala555@gmail.com**
-
+🔭 I’m currently working on React Js
 ###
 
 <h3 align="center">Connect with Me 😃 </h3>
@@ -23,6 +23,7 @@
 </div>
 
 
+###
 
 <!--
 **DipaliVala/DipaliVala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
