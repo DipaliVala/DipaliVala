@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </div>
-
+[![DipaliVala's GitHub | Stats](https://stats.quira.sh/DipaliVala/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=DipaliVala)
 ###
 
 <!--
