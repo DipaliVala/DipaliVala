@@ -1,8 +1,14 @@
 <h2 align="center">Hi👋! I'm Dipali Vala</h2>
 <h3 style="text-align: center;">A passionate Computer Science and Engineering undergraduate with a strong interest in Data Structures and Algorithms, Full Stack Development, and Data Science.</h3>
 
+### 🛠️ Skills
 
-📫 Send me an email on **dipalivala555@gmail.com**
+#### Languages
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+<!-- 📫 Send me an email on **dipalivala555@gmail.com**
 ###
 <!--
 <h3 align="center">Connect with Me 😃 </h3>
