@@ -14,7 +14,7 @@
 <a href="mailto:dipalivala555@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.codeforces.com/profile/Dipali_Vala">
+  <a href="https://codeforces.com/profile/Dipali_Vala">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/vala_dipali/">
