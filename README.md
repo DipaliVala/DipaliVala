@@ -7,8 +7,17 @@
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://twitter.com/dipali_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShahHetanshi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dipalivala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetanshi-shah-61b399268/" height="30" width="40" /></a>
+
+
+<a href="mailto:dipalivala555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.codeforces.com/profile/Dipali_Vala">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/vala_dipali/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <!-- 📫 Send me an email on **dipalivala555@gmail.com**
